@@ -1,14 +1,16 @@
+# Site: https://pypi.org/project/schedule/
+
 import schedule
 import time
-from RoboPowerBI import BotRobo # importa função do arquivo Robo
+from Robo01 import BotRobo01 # importa função do arquivo Robo01
 import smtplib # enviar e-mail
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 try:
     print("Iniciou..")
 
-    schedule.every().day.at("06:50").do(BotRobo)
-    schedule.every().day.at("23:00").do(BotRobo)
+    schedule.every().day.at("06:50").do(BotRobo01)
+    schedule.every().day.at("18:50").do(BotRobo01)
 
     while True:
         schedule.run_pending()
