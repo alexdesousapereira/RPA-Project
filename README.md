@@ -1,6 +1,6 @@
 #  RPA PROJECT 
 ***
-O objetivo deste projeto é utilizar da linguagem de programação Python para automatizar tarefas repetitivas em seu cotidiano. Acesse cada um dois códigos acima para ter acesso a meus robôs.
+O objetivo deste projeto é utilizar da linguagem de programação Python para automatizar tarefas repetitivas em seu cotidiano. Acesse a pasta de códigos acima para ter acesso aos meus robôs.
 
 BOT 01 🤖: escreve uma mensagem no notepad e depois finaliza o programa;
 
