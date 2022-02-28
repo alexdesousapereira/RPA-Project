@@ -16,7 +16,7 @@ BOT 06 🤖: faz a extração de dados de uma página da web;
 
 BOT 07 🤖: a partir de um arquivo csv preenche uma página da web dinâmica que muda ao decorrer que você submete os dados na página;
 
-BOT 08 🤖: faz a consulta de um nome de uma propriedade insdustrial;
+BOT 08 🤖: faz a consulta de um nome de uma propriedade industrial;
 
 BOT 09 🤖: faz a criação de uma enquete;
 
